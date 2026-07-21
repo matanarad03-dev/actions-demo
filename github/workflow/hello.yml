@@ -3,7 +3,7 @@ name: Hello World
 on:
   push:
       brunches:
-        - main
+        -main
 
 jons:
   say-hello:
