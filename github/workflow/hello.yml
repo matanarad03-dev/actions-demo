@@ -7,7 +7,7 @@ on:
 
 jons:
   say-hello:
-  runs-on: ubunty-latest
-  steps:
-    -name: Print Hello
-    run: echo "Hello from GitHub Actions!"
+    runs-on: ubunty-latest
+    steps:
+      -name: Print Hello
+        run: echo "Hello from GitHub Actions!"
