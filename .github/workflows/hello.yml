@@ -12,7 +12,8 @@ jobs:
       - name: Print Hello
         run: echo "Hello from GitHub Actions!"
 
-test:
+jobs:
+  run-tests:
     runs-on: ubuntu-latest
     steps:
       - name: Run Tests

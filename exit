@@ -1,0 +1,71 @@
+[33mcommit 43302d6f6e099fa468593f3d71dd965354d9c52e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: matan arad <matanarad03@gmail.com>
+Date:   Thu Jul 23 15:46:39 2026 +0300
+
+    add test1
+
+[33mcommit 4b2b2147ed171b0aba4b31940870516365b43e6d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Thu Jul 23 15:27:28 2026 +0300
+
+    Add GitHub Actions workflow to print hello message
+
+[33mcommit 29eee80313f3dcecd0959230e649e45d8fbc058d[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:34:57 2026 +0300
+
+    Delete .github/workflow directory
+
+[33mcommit aab5b8a8aa4dfd4b55a02494af7a9432b8619ba1[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:34:16 2026 +0300
+
+    Correct GitHub Actions workflow configuration
+    
+    Fix indentation and spelling errors in workflow.
+
+[33mcommit e39a7ad6956e3b4c98402d5c67b700e6aff19279[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:33:44 2026 +0300
+
+    Create hello.yml
+
+[33mcommit 2fc9d994280cdbeee9e7efe3a7c13480803106b3[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:32:47 2026 +0300
+
+    Delete github directory
+
+[33mcommit 6939902ac1d4beafbc23049d4f452515381a2bcc[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:31:25 2026 +0300
+
+    Correct branch name and OS in workflow file
+    
+    Fix typo in branch name and correct OS name.
+
+[33mcommit b73b48009a267ec8ee16408281098bbcbc079b33[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:30:08 2026 +0300
+
+    Fix formatting in GitHub Actions workflow
+
+[33mcommit 707946029d98cd44d3b5b80adeeb85c757e24c8f[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 18:20:53 2026 +0300
+
+    Update GitHub Actions workflow for hello world
+    
+    Fix indentation and correct typos in workflow file.
+
+[33mcommit a41f152405f73652b2a83f4f0acc65c44efd77f2[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 17:45:32 2026 +0300
+
+    Create hello.yml
+
+[33mcommit 48346b476e9245ee00612f24066924c4df07fccb[m
+Author: matanarad03-dev <matanarad03@gmail.com>
+Date:   Tue Jul 21 17:25:02 2026 +0300
+
+    Initial commit
